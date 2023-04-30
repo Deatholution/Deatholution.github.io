@@ -1,0 +1,224 @@
+
+.top_panel {
+    display: flex;
+}
+
+.menu_img {
+    width: 19px;
+}
+
+.profile_img {
+    width: 34px;
+}
+
+.advanced_search_container {
+    position: absolute;
+    right: 200px;
+}
+
+.pictures_container {
+    position: absolute;
+    right: 110px;
+}
+
+.menu_container {
+    position: absolute;
+    right: 73px;
+    top: 20px;
+}
+
+.profile_container {
+    position: absolute;
+    right: 15px;
+    top: 14px;
+}
+
+.top_panel a {
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+}
+
+.search_form_container {
+    position: absolute;
+    top: 380px;
+    left: 670px;
+}
+
+.search {
+    width: 575px;
+    height: 40px;
+    border-radius: 20px;
+    border-color: rgb(105, 105, 105);
+    border-width: 0.5px;
+}
+
+.google_logo {
+    position: absolute;
+    left: 667px;
+    top: 205px;
+}
+
+.search_btn {
+    width: 120px;
+    height: 35px;
+    position: absolute;
+    left: 150px;
+    top: 71px;
+    border: none;
+    background-color: rgb(245, 245, 245);
+    cursor: pointer;
+}
+
+.lucky_btn {
+    width: 120px;
+    height: 35px;
+    position: absolute;
+    left: 290px;
+    top: 71px;
+    border: none;
+    background-color: rgb(245, 245, 245);
+    cursor: pointer;
+}
+
+.search_img_container img {
+    width: 20px;
+}
+
+.search_img_container {
+    position: absolute;
+    left: 1220px;
+    top: 390px;
+}
+
+.google_logo_pictures {
+    position: absolute;
+    left: 664px;
+    top: 242px;
+}
+
+h1 {
+    font-size: 20px;
+    color: rgb(202, 3, 3);
+}
+
+.head_container {
+    position: absolute;
+    top: 70px;
+    left: 45px;
+}
+
+.adv_search_body {
+    position: absolute;
+    top: 200px;
+    left: 0px;
+    width: 100%;
+    height: 330px;
+    border: solid;
+}
+
+.p1 {
+    font-size: 18px;
+}
+
+.p2 {
+    font-size: 16px;
+}
+
+.p3 {
+    font-size: 14px;
+}
+
+.p4 {
+    font-size: 12px;
+}
+
+.header1 {
+    position: absolute;
+    top: 0px;
+    left: 20px;
+}
+
+.header2 {
+    position: absolute;
+    top: 5px;
+    left: 900px;
+}
+
+.adv_search_container1 {
+    position: absolute;
+    left: 270px;
+    top: 50px;
+}
+
+.adv_search_container2 {
+    position: absolute;
+    left: 270px;
+    top: 100px;
+}
+
+.adv_search_container3 {
+    position: absolute;
+    left: 270px;
+    top: 150px;
+}
+
+.adv_search_container4 {
+    position: absolute;
+    left: 270px;
+    top: 200px;
+}
+
+.text1 {
+    position: absolute;
+    left: 20px;
+    top: 45px;
+}
+
+.text2 {
+    position: absolute;
+    left: 20px;
+    top: 95px;
+}
+
+.text3 {
+    position: absolute;
+    left: 20px;
+    top: 145px;
+}
+
+.text4 {
+    position: absolute;
+    left: 20px;
+    top: 195px;
+}
+
+.text5 {
+    position: absolute;
+    left: 900px;
+    top: 50px;
+}
+
+.text6 {
+    position: absolute;
+    left: 900px;
+    top: 100px;
+}
+
+.text7 {
+    position: absolute;
+    left: 900px;
+    top: 150px;
+}
+
+.text8 {
+    position: absolute;
+    left: 900px;
+    top: 200px;
+}
+
+.adv_search {
+    width: 600px;
+    height: 30px;
+}
+
